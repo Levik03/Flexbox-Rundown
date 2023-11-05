@@ -9,6 +9,8 @@ padding: 5px;
 
 .containerNav{display: flex;
 flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-evenly;
 }
 
 
