@@ -130,8 +130,6 @@ figure{display: flex;
 
 #section-five {
     background-color: goldenrod;
-    height: 1400px;
-
 }
 .media-container{display: flex;
     justify-content: flex-start;
@@ -160,6 +158,14 @@ color: white;
 button:active{background-color: lightcoral;
 box-shadow: 0 5px darkred;
 transform: translate(4px);
+}
+footer{background-color: papayawhip;
+height: 30px;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: x-small;
+color: rebeccapurple;
+padding: 10px 0px;
 }
 
 
